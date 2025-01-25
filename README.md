@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte B550M Aorus Elite, AMD Ryzen 5 5600G [6c/12t], Radeon RX 570 Series (4 GB)
 
+![Overview](https://github.com/user-attachments/assets/dbb0f8e9-4669-4ad9-a617-fb9b8cecd266)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.2)
